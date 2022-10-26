@@ -10,4 +10,5 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+Run `docker-compose up` to sping backend and frontend and wait for both the services to be up and running
+Then open frontend app to register an account
